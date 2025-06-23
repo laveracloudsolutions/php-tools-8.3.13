@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "folder": ".",
+      "image_tag": "php-tools:8.3.13-apache-bookworm",
+      "image_additionnal_tag": "php-tools:8.3.13-06",
+      "platforms": "linux/amd64,linux/arm64/v8"
+    }
+  ]
+}
