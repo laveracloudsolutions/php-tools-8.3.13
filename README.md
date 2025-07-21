@@ -1,6 +1,6 @@
 # Php TOOLS 8.3.13
 
-PHP Tools (Base [php-runner-8.3.13](https://github.com/laveracloudsolutions/php-runner-8.3.13), NodeJS, Yarn, Composer, etc)
+PHP Tools (Base [php-runner-8.3.13](https://github.com/laveracloudsolutions/php-runner-8.3.13) + NodeJS, Yarn, Composer, etc)
 
 > Docker Images de type PHP à destination des dev (avec utilitaires pour "devcontainer / sonarqube / etc") 
 
